@@ -1,0 +1,27 @@
+{
+  "name": "paypal-bruteforce-web-login",
+  "version": "1.0.0",
+  "description": "Paypal bruteforce web login using email - password pairs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonespitogo/paypal-bruteforce-web-login.git"
+  },
+  "keywords": [
+    "paypal",
+    "bruteforce",
+    "login",
+    "hack",
+    "hacking",
+    "wordlist"
+  ],
+  "author": "Unknown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adonespitogo/paypal-bruteforce-web-login/issues"
+  },
+  "homepage": "https://github.com/adonespitogo/paypal-bruteforce-web-login#readme"
+}
